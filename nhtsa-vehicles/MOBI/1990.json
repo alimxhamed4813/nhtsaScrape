@@ -1,0 +1,128 @@
+[
+  {
+    "make": "MOBI",
+    "model": "Sedan",
+    "variant": "CUTLASS SUPREME INTERNAT'L SERIES",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "MOBI",
+    "model": "Sedan",
+    "variant": "88 ROYALE BASE/BROUGHAM 4DR",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "MOBI",
+    "model": "Sedan",
+    "variant": "98 REGENCY BROUGHAM/TOURING 4DR",
+    "year": 1990,
+    "curb_weight_tons": 1.7
+  },
+  {
+    "make": "MOBI",
+    "model": "Sedan",
+    "variant": "CUTLASS CALAIS S/SL 4DR",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "MOBI",
+    "model": "Sedan",
+    "variant": "CUTLASS CIERA BASE/SL 4 DR",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "MOBI",
+    "model": "Sedan",
+    "variant": "CUTLASS CIERA INTERNAT'L SERIES",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "MOBI",
+    "model": "Sedan",
+    "variant": "CUTLASS SUPREME BASE/SL 4DR",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "MOBI",
+    "model": "Cutlass Supreme",
+    "variant": "CONVERTIBLE",
+    "year": 1990,
+    "curb_weight_tons": 1.8
+  },
+  {
+    "make": "MOBI",
+    "model": "Cutlass Supreme",
+    "variant": "INTERNAT'L SERIES COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "MOBI",
+    "model": "Cutlass Supreme",
+    "variant": "INTERNAT'L SERIES SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "MOBI",
+    "model": "Cutlass Supreme",
+    "variant": "BASE/SL 2DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "MOBI",
+    "model": "Cutlass Supreme",
+    "variant": "BASE/SL 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "MOBI",
+    "model": "Custom Cruiser",
+    "variant": "WAGON",
+    "year": 1990,
+    "curb_weight_tons": 2.1
+  },
+  {
+    "make": "MOBI",
+    "model": "Toronado",
+    "variant": "BASE/TROFEO 2DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.7
+  },
+  {
+    "make": "MOBI",
+    "model": "Cutlass Calais",
+    "variant": "S/INTERNAT'L SERIES COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "MOBI",
+    "model": "Cutlass Calais",
+    "variant": "S/SL 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "MOBI",
+    "model": "Cutlass Ciera",
+    "variant": "BASE/SL 4 DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "MOBI",
+    "model": "Cutlass Ciera",
+    "variant": "INTERNAT'L SERIES SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  }
+]

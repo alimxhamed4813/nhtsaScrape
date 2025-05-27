@@ -1,0 +1,86 @@
+[
+  {
+    "make": "RS",
+    "model": "911",
+    "variant": "CARRERA 2/CARRERA 4 4WD 2DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "RS",
+    "model": "911",
+    "variant": "CARRERA 2/CARRERA 4 4WD CABRIOLET",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "RS",
+    "model": "911",
+    "variant": "CARRERA 2/CARRERA 4 4WD TARGA",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "RS",
+    "model": "944",
+    "variant": "S2 2DR COUPE/CABRIOLET",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "RS",
+    "model": "944",
+    "variant": "TURBO 2DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "RS",
+    "model": "928",
+    "variant": "S4/GT 2DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.8
+  },
+  {
+    "make": "RS",
+    "model": "B & H Trailers",
+    "variant": "911 CARRERA 2/CARRERA 4 4WD CABRIOLET",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "RS",
+    "model": "B & H Trailers",
+    "variant": "944 S2 2DR COUPE/CABRIOLET",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "RS",
+    "model": "B & H Trailers",
+    "variant": "944 TURBO 2DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "RS",
+    "model": "B & O Custom Trailers",
+    "variant": "911 CARRERA 2/CARRERA 4 4WD CABRIOLET",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "RS",
+    "model": "B & O Custom Trailers",
+    "variant": "944 S2 2DR COUPE/CABRIOLET",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "RS",
+    "model": "B & O Custom Trailers",
+    "variant": "944 TURBO 2DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  }
+]

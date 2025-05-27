@@ -1,0 +1,30 @@
+[
+  {
+    "make": "HYUNDAI",
+    "model": "Sonata",
+    "variant": "GL/GLS 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "Excel",
+    "variant": "BASIC/L/CX 2DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 1.1
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "Excel",
+    "variant": "CX/CXL 4DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 1.1
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "Excel",
+    "variant": "CX/CXL 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.1
+  }
+]

@@ -1,0 +1,1276 @@
+[
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "LEGEND BASE/L/LS 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "SPIDER GRADUATE/VELOCE/QUADIFOGLIO",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "JUSTY DL/GL/GL 4WD 2DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 0.9
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "JUSTY GL 4WD 4DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 1.0
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "LEGACY 4WD 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "LEGACY FWD 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "LOYALE 4WD 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.1
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "LOYALE FWD 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.1
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "911 CARRERA 2/CARRERA 4 4WD 2DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "911 CARRERA 2/CARRERA 4 4WD CABRIOLET",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "911 CARRERA 2/CARRERA 4 4WD TARGA",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "928 S4/GT 2DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.8
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "944 S2 2DR COUPE/CABRIOLET",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "944 TURBO 2DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "BENTLEY MULSANNE/TURBO R 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 2.6
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "CORNICHE/BENTLEY CONTINENTAL CONVERTIBLE",
+    "year": 1990,
+    "curb_weight_tons": 2.6
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "SILVER SPIRIT 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 2.6
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "SILVER SPUR 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 2.6
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "OPTIMA BASE/LS/GSI 2DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 1.1
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "OPTIMA LS 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.1
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "560 SEL 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 2.0
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "COUGAR LS/XR7 2DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.8
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "GRAND MARQUIS COLONY PARK GS/LS WAGON",
+    "year": 1990,
+    "curb_weight_tons": 2.0
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "GRAND MARQUIS GS/LS SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.9
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "SABLE GS/LS 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "TOPAZ L/GS/LS/LTS 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "TOPAZ L/GS/XR5 2DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "TRACER BASE/LTS 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.1
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "190 E 2.6 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "300 CE 2DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.8
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "300 E 2.6/300E 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "300 E 4MATIC 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "300 SE 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.9
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "300 SEL 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.9
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "300 SL/500SL 2DR COUPE-ROADSTER",
+    "year": 1990,
+    "curb_weight_tons": 2.0
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "420 SEL 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 2.0
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "560 SEC 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 2.0
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "COUNTACH 25th ANNIVERSARY",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "228 Si 2DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "BITURBO 430 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "SPYDER i",
+    "year": 1990,
+    "curb_weight_tons": 1.2
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "VANDEN PLAS 4 DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 2.1
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "XJ-6 EXECUTIVE/BASE/SOVEREIGN 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.9
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "XJ-S 2 DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 2.0
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "XJ-S CONVERTIBLE",
+    "year": 1990,
+    "curb_weight_tons": 2.1
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "MUSTANG LX/LX 5.0L/COBRA GT CONVERTIBLE",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "PROBE GL 2DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "PROBE GT 2DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "PROBE LX 2DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "RANGER LONG WB",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "RANGER LONG WB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "RANGER SHORT WB",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "RANGER SHORT WB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "RANGER SUPERCAB",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "RANGER SUPERCAB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 1.7
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "TAURUS L/GL/LX 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "TAURUS L/GL/LX WAGON",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "TAURUS SHO 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "TEMPO L/GL/GLS 2DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "TEMPO L/GL/LX/GLS/AWD 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "THUNDERBIRD BASE/LX/SUPER COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.8
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "F-150 STYLESIDE PU. LONG WB. REG. CAB",
+    "year": 1990,
+    "curb_weight_tons": 1.9
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "F-150 STYLESIDE PU. LONG WB. REG.CAB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 2.0
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "F-150 STYLESIDE PU. LONG WB. SUPERCAB",
+    "year": 1990,
+    "curb_weight_tons": 2.1
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "F-150 STYLESIDE PU. SHORT WB REG.CAB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 2.0
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "F-150 STYLESIDE PU. SHORT WB SUPERCAB4X4",
+    "year": 1990,
+    "curb_weight_tons": 2.2
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "F-150 STYLESIDE PU. SHORT WB. REG. CAB",
+    "year": 1990,
+    "curb_weight_tons": 1.8
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "F-150 STYLESIDE PU. SHORT WB. SUPERCAB",
+    "year": 1990,
+    "curb_weight_tons": 2.1
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "F-250 HD STYLESIDE PU. REG. CAB",
+    "year": 1990,
+    "curb_weight_tons": 2.1
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "F-250 HD STYLESIDE PU. REG. CAB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 2.3
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "F-250 HD STYLESIDE PU. SUPERCAB",
+    "year": 1990,
+    "curb_weight_tons": 2.3
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "F-250 HD STYLESIDE PU. SUPERCAB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 2.6
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "F-250 STYLESIDE PU. REG. CAB",
+    "year": 1990,
+    "curb_weight_tons": 2.0
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "F-250 STYLESIDE PU. REG. CAB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 2.2
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "F-350 DR STYLESIDE PU. CREW CAB",
+    "year": 1990,
+    "curb_weight_tons": 2.6
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "F-350 DR STYLESIDE PU. REG. CAB",
+    "year": 1990,
+    "curb_weight_tons": 2.4
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "F-350 DR STYLESIDE PU. SUPERCAB",
+    "year": 1990,
+    "curb_weight_tons": 2.7
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "F-350 STYLESIDE PU. CREW CAB",
+    "year": 1990,
+    "curb_weight_tons": 2.6
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "F-350 STYLESIDE PU. CREW CAB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 2.7
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "F-350 STYLESIDE PU. REG. CAB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 2.4
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "FESTIVA L/LX 2DR",
+    "year": 1990,
+    "curb_weight_tons": 0.9
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "LTD CROWN VICTORIA S/BASE/LX 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.9
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "LTD CRWN VICTORIA CTRY SQR BASE/LX WAGON",
+    "year": 1990,
+    "curb_weight_tons": 2.0
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "MUSTANG LX/LX 5.0L 2DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "MUSTANG LX/LX 5.0L/COBRA GT 2DR HTCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "AEROSTAR EXTENDED LENGTH WAGON",
+    "year": 1990,
+    "curb_weight_tons": 1.8
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "AEROSTAR EXTENDED LENGTH WAGON 4x4",
+    "year": 1990,
+    "curb_weight_tons": 1.9
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "AEROSTAR WAGON",
+    "year": 1990,
+    "curb_weight_tons": 1.7
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "AEROSTAR WAGON 4x4",
+    "year": 1990,
+    "curb_weight_tons": 1.8
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "BRONCO 4x4",
+    "year": 1990,
+    "curb_weight_tons": 2.3
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "BRONCO II 4x2",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "BRONCO II 4x4",
+    "year": 1990,
+    "curb_weight_tons": 1.7
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "E-150 ECONOLINE SUPER VAN LONG WB.",
+    "year": 1990,
+    "curb_weight_tons": 2.2
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "E-150 ECONOLINE VAN SHORT WB.",
+    "year": 1990,
+    "curb_weight_tons": 1.9
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "E-250 ECONOLINE SUPER VAN",
+    "year": 1990,
+    "curb_weight_tons": 2.4
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "E-350 ECONOLINE SUPER VAN",
+    "year": 1990,
+    "curb_weight_tons": 2.5
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "E-350 SUPER WAGON",
+    "year": 1990,
+    "curb_weight_tons": 2.7
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "ESCORT GT 2DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 1.2
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "ESCORT L/LX 2DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 1.2
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "ESCORT LX 4DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 1.2
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "ESCORT LX WAGON",
+    "year": 1990,
+    "curb_weight_tons": 1.2
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "EXPLORER 2DR 4x2/4x4",
+    "year": 1990,
+    "curb_weight_tons": 1.8
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "EXPLORER 4DR 4x2/4x4",
+    "year": 1990,
+    "curb_weight_tons": 1.9
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "F-150 STYLESIDE PU. LONG WB SUPERCAB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 2.3
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "348ts CABRIOLET",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "AEROSTAR CARGO VAN",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "AEROSTAR EXTENDED LENGTH CARGO VAN",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "DYNASTY BASE/LE 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "IMPERIAL 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.8
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "LE BARON 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "LE BARON BASE/PREMIUM/GT/GTC 2DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "LE BARON BASE/PREMIUM/GT/GTC CONVERTIBLE",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "NEW YORKER FIFTH AVENUE 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.7
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "NEW YORKER LANDAU 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "TOWN AND COUNTRY WAGON",
+    "year": 1990,
+    "curb_weight_tons": 1.9
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "2CV 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 0.6
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "R20 BONUS/CREW CAB PU. 2WD",
+    "year": 1990,
+    "curb_weight_tons": null
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "R20 SUBURBAN 2WD",
+    "year": 1990,
+    "curb_weight_tons": 2.4
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "R30 BONUS/CREW CAB PU. 2WD",
+    "year": 1990,
+    "curb_weight_tons": 2.4
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "S-10 BLAZER 2DR 4 X 2",
+    "year": 1990,
+    "curb_weight_tons": 1.8
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "S-10 BLAZER 2DR 4 X 4",
+    "year": 1990,
+    "curb_weight_tons": 2.0
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "S-10 P.U. LONG W.B. REGULAR CAB",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "S-10 P.U. LONG W.B. REGULAR CAB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "S-10 P.U. SHORT W.B. REGULAR CAB",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "S-10 P.U. SHORT W.B. REGULAR CAB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "SPRINT BASE/CL 2DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 0.8
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "SPRINT BASE/CL 4DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 0.8
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "SPRINT CONVERTIBLE",
+    "year": 1990,
+    "curb_weight_tons": 0.9
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "SPRINT TURBO 2DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 0.9
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "V10 SUBURBAN 4X4",
+    "year": 1990,
+    "curb_weight_tons": 2.3
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "V20 SUBURBAN 4X4",
+    "year": 1990,
+    "curb_weight_tons": 2.6
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "V30 BONUS/CREW CAB PU. 4X4",
+    "year": 1990,
+    "curb_weight_tons": 2.7
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "V-BLAZER 4DR 4 X 2",
+    "year": 1990,
+    "curb_weight_tons": null
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "V-BLAZER 4DR 4 X 4",
+    "year": 1990,
+    "curb_weight_tons": 2.3
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "DAYTONA BASE HATCHBACK 2DR",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "DAYTONA ES HATCHBACK 2DR",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "DAYTONA ES TURBO HATCHBACK 2DR",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "DAYTONA SHELBY HATCHBACK 2DR",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "CORSICA LT 4DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "CORSICA LT/LTZ 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "CORVETTE 2DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "CORVETTE CONVERTIBLE",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "CORVETTE ZR1 2DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.7
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "G10 CARGO SHORT",
+    "year": 1990,
+    "curb_weight_tons": 1.9
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "G10 SPORTVAN SHORT",
+    "year": 1990,
+    "curb_weight_tons": 2.0
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "G20 CARGO SHORT",
+    "year": 1990,
+    "curb_weight_tons": 1.9
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "G20 SPORTVAN",
+    "year": 1990,
+    "curb_weight_tons": 2.1
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "G30 CARGO",
+    "year": 1990,
+    "curb_weight_tons": 2.2
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "G30 SPORTVAN",
+    "year": 1990,
+    "curb_weight_tons": 2.4
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "G30/C6P SPORTVAN",
+    "year": 1990,
+    "curb_weight_tons": 2.4
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "K1500 FLEETSIDE PU. LONG WB. REG.CAB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 2.1
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "K1500 FLEETSIDE PU. SHORT WB.REG.CAB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 2.0
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "K1500 SPORTSIDE PU. REGULAR CAB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 2.0
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "K2500 FLEETSIDE PU. LONG WB. REG.CAB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 2.1
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "K3500 FLEETSIDE PU. LONG WB. REG.CAB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 2.4
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "LUMINA BASE/EURO 2DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "LUMINA BASE/EURO 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "R10 SUBURBAN  2WD",
+    "year": 1990,
+    "curb_weight_tons": 2.2
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "ASTRO CARGO VAN",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "ASTRO EXTENDED LENGTH AWD CARGO VAN",
+    "year": 1990,
+    "curb_weight_tons": 1.9
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "ASTRO EXTENDED LENGTH BASE CARGO VAN",
+    "year": 1990,
+    "curb_weight_tons": 1.8
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "BERETTA BASE/GT/GTZ 2 DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "BERETTA CONVERTIBLE",
+    "year": 1990,
+    "curb_weight_tons": null
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "C1500 FLEETSIDE PU. LONG WB. REG. CAB",
+    "year": 1990,
+    "curb_weight_tons": 1.9
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "C1500 FLEETSIDE PU. SHORT WB. REG. CAB",
+    "year": 1990,
+    "curb_weight_tons": 1.8
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "C1500 SPORTSIDE PU. REGULAR CAB",
+    "year": 1990,
+    "curb_weight_tons": 1.9
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "C2500 FLEETSIDE PU. LONG WB. REG. CAB",
+    "year": 1990,
+    "curb_weight_tons": 2.0
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "C3500 FLEETSIDE PU. LONG WB. REG. CAB",
+    "year": 1990,
+    "curb_weight_tons": 2.2
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "CAMARO IROC CONVERTIBLE",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "CAMARO IROC COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "CAMARO RS 2DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "CAPRICE BASE/CLASSIC 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.9
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "CAPRICE CLASSIC WAGON",
+    "year": 1990,
+    "curb_weight_tons": 2.1
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "CAVALIER 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.2
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "CAVALIER BASE/Z24 2DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.2
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "CAVALIER WAGON",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "CELEBRITY BASE/EUROSPORT WAGON",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "CHEVY TRACKER   CONVERTIBLE",
+    "year": 1990,
+    "curb_weight_tons": 1.1
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "CHEVY TRACKER   HARD TOP",
+    "year": 1990,
+    "curb_weight_tons": 1.1
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "INTEGRA RS/LS/GS 2DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "INTEGRA RS/LS/GS 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "R & R",
+    "model": "R & R Tractor Trailer Sales and Parts",
+    "variant": "LEGEND BASE/L/LS 2DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  }
+]

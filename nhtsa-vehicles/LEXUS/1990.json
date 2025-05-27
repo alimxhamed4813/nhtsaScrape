@@ -1,0 +1,16 @@
+[
+  {
+    "make": "LEXUS",
+    "model": "LS",
+    "variant": "400 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.9
+  },
+  {
+    "make": "LEXUS",
+    "model": "ES",
+    "variant": "250 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  }
+]

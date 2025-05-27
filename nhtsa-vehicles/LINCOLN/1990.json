@@ -1,0 +1,23 @@
+[
+  {
+    "make": "LINCOLN",
+    "model": "Town Car",
+    "variant": "BASE/SIGNATURE/CARTIER 4D SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 2.0
+  },
+  {
+    "make": "LINCOLN",
+    "model": "Continental",
+    "variant": "BASE/SIGNATURE 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.8
+  },
+  {
+    "make": "LINCOLN",
+    "model": "Mark",
+    "variant": "VII BILL BLASS/LSC 2DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.9
+  }
+]

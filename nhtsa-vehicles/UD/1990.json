@@ -1,0 +1,58 @@
+[
+  {
+    "make": "UD",
+    "model": "90",
+    "variant": "COUPE QUATTRO 20V",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "UD",
+    "model": "90",
+    "variant": "QUATTRO 20V SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "UD",
+    "model": "90",
+    "variant": "SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "UD",
+    "model": "100",
+    "variant": "QUATRO SEDAN",
+    "year": 1990,
+    "curb_weight_tons": null
+  },
+  {
+    "make": "UD",
+    "model": "100",
+    "variant": "SEDAN FWD",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "UD",
+    "model": "200",
+    "variant": "TURBO 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "UD",
+    "model": "200",
+    "variant": "TURBO QUATTRO 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "UD",
+    "model": "Coupe",
+    "variant": "90  QUATTRO 20V",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  }
+]

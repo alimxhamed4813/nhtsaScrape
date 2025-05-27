@@ -1,0 +1,709 @@
+[
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "SPIDER GRADUATE/VELOCE/QUADIFOGLIO",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "GOLF BASE/GL 2 DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 1.1
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "GOLF BASE/GL 4 DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 1.1
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "GOLF CABRIOLET",
+    "year": 1990,
+    "curb_weight_tons": 1.1
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "JETTA BASE/GL/GTX 4 DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.2
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "PASSAT BASE/GL 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "VANAGON BASE/GL",
+    "year": 1990,
+    "curb_weight_tons": 1.7
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "VANAGON GL CAMPER",
+    "year": 1990,
+    "curb_weight_tons": 1.8
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "240 DL 4 DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "240 DL WAGON",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "740 GL/GLE/TURBO 4 DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "740 GL/GLE/TURBO WAGON",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "760 GLE/TURBO 4 DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.7
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "BENTLEY MULSANNE/TURBO R 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 2.6
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "CORNICHE/BENTLEY CONTINENTAL CONVERTIBLE",
+    "year": 1990,
+    "curb_weight_tons": 2.6
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "SILVER SPIRIT 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 2.6
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "SILVER SPUR 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 2.6
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "CUTLASS SUPREME CONVERTIBLE",
+    "year": 1990,
+    "curb_weight_tons": 1.8
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "CUTLASS SUPREME INTERNAT'L SERIES COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "CUTLASS SUPREME INTERNAT'L SERIES SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "ACCLAIM BASE/LE/LX 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "GRAND VOYAGER SE/LE WAGON",
+    "year": 1990,
+    "curb_weight_tons": 1.7
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "LASER BASE/RS 2DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "VOYAGER BASE/SE/LE WAGON",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "88 ROYALE BASE/BROUGHAM 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "CUTLASS CALAIS S/INTERNAT'L SERIES COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "CUTLASS CALAIS S/SL 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "CUTLASS CIERA BASE/SL 4 DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "CUTLASS CIERA INTERNAT'L SERIES SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "CUTLASS CRUISER BASE/SL WAGON",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "CUTLASS SUPREME BASE/SL 2DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "CUTLASS SUPREME BASE/SL 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "LS400 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.9
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "CONTINENTAL BASE/SIGNATURE 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.8
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "MARK VII BILL BLASS/LSC 2DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.9
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "ELAN SE ROADSTER",
+    "year": 1990,
+    "curb_weight_tons": 1.1
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "PREMIER LX/ES/ES LTD EDITION 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "SUMMIT BASE/DL/LX/LS DOHC/ES 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.1
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "TALON BASE/TSi/TSi AWD 2DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "VISTA BASE/DL/LX/LX TURBO 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.0
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "DYNASTY BASE/LE 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "IMPERIAL 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.8
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "LE BARON 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "LE BARON BASE/PREMIUM/GT/GTC 2DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "LE BARON BASE/PREMIUM/GT/GTC CONVERTIBLE",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "NEW YORKER LANDAU 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "100 DL 2 DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 1.0
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "100 DL TURBO 2 DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 1.0
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "100 E/DL/LX/LX TURBO 4 DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.0
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "200 E/DL/LX/LX DOHC/SX 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.1
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "S-10 BLAZER 2DR 4 X 2",
+    "year": 1990,
+    "curb_weight_tons": 1.8
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "S-10 BLAZER 2DR 4 X 4",
+    "year": 1990,
+    "curb_weight_tons": 2.0
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "S-10 P.U. LONG W.B. REGULAR CAB",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "S-10 P.U. LONG W.B. REGULAR CAB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "S-10 P.U. SHORT W.B. REGULAR CAB",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "S-10 P.U. SHORT W.B. REGULAR CAB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "SPRINT BASE/CL 2DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 0.8
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "SPRINT BASE/CL 4DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 0.8
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "SPRINT CONVERTIBLE",
+    "year": 1990,
+    "curb_weight_tons": 0.9
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "V-BLAZER 4DR 4 X 2",
+    "year": 1990,
+    "curb_weight_tons": null
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "V-BLAZER 4DR 4 X 4",
+    "year": 1990,
+    "curb_weight_tons": 2.3
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "DAYTONA SHELBY HATCHBACK 2DR",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "CORSICA LT 4DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "CORSICA LT/LTZ 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "CORVETTE CONVERTIBLE",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "K1500 FLEETSIDE PU. EXTENDED CAB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 2.3
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "K1500 FLEETSIDE PU. LONG WB. REG.CAB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 2.1
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "K1500 FLEETSIDE PU. SHORT WB.REG.CAB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 2.0
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "K1500 SPORTSIDE PU. REGULAR CAB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 2.0
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "K2500 FLEETSIDE PU. EXTENDED CAB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 2.3
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "K2500 FLEETSIDE PU. LONG WB. REG.CAB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 2.1
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "K3500 FLEETSIDE PU. EXTENDED CAB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 2.5
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "K3500 FLEETSIDE PU. LONG WB. REG.CAB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 2.4
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "LUMINA APV BASE/LE WAGON",
+    "year": 1990,
+    "curb_weight_tons": 1.7
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "LUMINA BASE/EURO 2DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "LUMINA BASE/EURO 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "ASTRO EXTENDED LENGTH AWD CARGO VAN",
+    "year": 1990,
+    "curb_weight_tons": 1.9
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "ASTRO EXTENDED LENGTH BASE CARGO VAN",
+    "year": 1990,
+    "curb_weight_tons": 1.8
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "BERETTA CONVERTIBLE",
+    "year": 1990,
+    "curb_weight_tons": null
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "C1500 FLEETSIDE PU. EXTENDED CAB",
+    "year": 1990,
+    "curb_weight_tons": 2.1
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "C1500 FLEETSIDE PU. LONG WB. REG. CAB",
+    "year": 1990,
+    "curb_weight_tons": 1.9
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "C1500 FLEETSIDE PU. SHORT WB. REG. CAB",
+    "year": 1990,
+    "curb_weight_tons": 1.8
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "C1500 SPORTSIDE PU. REGULAR CAB",
+    "year": 1990,
+    "curb_weight_tons": 1.9
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "C2500 FLEETSIDE PU. EXTENDED CAB",
+    "year": 1990,
+    "curb_weight_tons": 2.1
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "C2500 FLEETSIDE PU. LONG WB. REG. CAB",
+    "year": 1990,
+    "curb_weight_tons": 2.0
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "C3500 FLEETSIDE PU. EXTENDED CAB",
+    "year": 1990,
+    "curb_weight_tons": 2.4
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "C3500 FLEETSIDE PU. LONG WB. REG. CAB",
+    "year": 1990,
+    "curb_weight_tons": 2.2
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "CAMARO IROC CONVERTIBLE",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "CAPRICE BASE/CLASSIC 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.9
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "CAPRICE CLASSIC WAGON",
+    "year": 1990,
+    "curb_weight_tons": 2.1
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "CAVALIER 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.2
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "CAVALIER BASE/Z24 2DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.2
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "CAVALIER WAGON",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "CELEBRITY BASE/EUROSPORT WAGON",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "CHEVY TRACKER   CONVERTIBLE",
+    "year": 1990,
+    "curb_weight_tons": 1.1
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "ALLANTE CONVERTIBLE",
+    "year": 1990,
+    "curb_weight_tons": 1.7
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "COUPE DE VILLE/FLEETWOOD 2DR COUPE",
+    "year": 1990,
+    "curb_weight_tons": 1.7
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "ELDORADO BASE/BIARRITZ 2DR",
+    "year": 1990,
+    "curb_weight_tons": 1.7
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "FLEETWOOD SIXTY SPECIAL 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.8
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "SEDAN DE VILLE/FLEETWOOD 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.8
+  },
+  {
+    "make": "L & L MANUFACTURING",
+    "model": "L & L Manufacturing",
+    "variant": "SEVILLE BASE/STS 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.7
+  }
+]

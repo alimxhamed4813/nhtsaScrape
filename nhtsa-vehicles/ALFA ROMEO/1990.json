@@ -1,0 +1,16 @@
+[
+  {
+    "make": "ALFA ROMEO",
+    "model": "164",
+    "variant": "SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "ALFA ROMEO",
+    "model": "Spider",
+    "variant": "GRADUATE/VELOCE/QUADIFOGLIO",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  }
+]

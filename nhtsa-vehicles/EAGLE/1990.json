@@ -1,0 +1,44 @@
+[
+  {
+    "make": "EAGLE",
+    "model": "Summit",
+    "variant": "BASE/DL/LX/LS DOHC/ES 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.1
+  },
+  {
+    "make": "EAGLE",
+    "model": "Talon",
+    "variant": "BASE/TSI/TSI AWD 2DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "EAGLE",
+    "model": "PREMIER",
+    "variant": "LX/ES/ES LTD EDITION 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "EAGLE",
+    "model": "VISTA",
+    "variant": "BASE/DL/LX/LX TURBO 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.0
+  },
+  {
+    "make": "EAGLE",
+    "model": "VISTA",
+    "variant": "BASE/GT/GT TURBO 2DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 1.0
+  },
+  {
+    "make": "EAGLE",
+    "model": "VISTA",
+    "variant": "WAGON 4X2\\4X4",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  }
+]

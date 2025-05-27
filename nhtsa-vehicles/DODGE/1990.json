@@ -1,0 +1,247 @@
+[
+  {
+    "make": "DODGE",
+    "model": "Spirit",
+    "variant": "BASE/LE/ES 4DR SEDAN",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "DODGE",
+    "model": "Shadow",
+    "variant": "4DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "DODGE",
+    "model": "Shadow",
+    "variant": "ES 2DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "DODGE",
+    "model": "OMNI",
+    "variant": "4DR HATCHBACK",
+    "year": 1990,
+    "curb_weight_tons": 1.1
+  },
+  {
+    "make": "DODGE",
+    "model": "Dakota",
+    "variant": "CLUB CAB PICKUP",
+    "year": 1990,
+    "curb_weight_tons": 1.7
+  },
+  {
+    "make": "DODGE",
+    "model": "Dakota",
+    "variant": "LONG WB",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "DODGE",
+    "model": "Dakota",
+    "variant": "LONG WB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 1.9
+  },
+  {
+    "make": "DODGE",
+    "model": "Dakota",
+    "variant": "SHORT WB",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "DODGE",
+    "model": "Dakota",
+    "variant": "SHORT WB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 1.8
+  },
+  {
+    "make": "DODGE",
+    "model": "Ram Van",
+    "variant": "MINI",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "DODGE",
+    "model": "Caravan",
+    "variant": "BASE/SE/LE WAGON",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "DODGE",
+    "model": "Caravan",
+    "variant": "GRAND  SE/LE WAGON",
+    "year": 1990,
+    "curb_weight_tons": 1.7
+  },
+  {
+    "make": "DODGE",
+    "model": "RAM 50",
+    "variant": "POWER  LONG WB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "DODGE",
+    "model": "RAM 50",
+    "variant": "POWER  SHORT WB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "DODGE",
+    "model": "RAM 50",
+    "variant": "POWER  SPORT CAB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "DODGE",
+    "model": "RAM 50",
+    "variant": "LONG WB",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "DODGE",
+    "model": "RAM 50",
+    "variant": "SE",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "DODGE",
+    "model": "RAM 50",
+    "variant": "SHORT WB",
+    "year": 1990,
+    "curb_weight_tons": 1.3
+  },
+  {
+    "make": "DODGE",
+    "model": "RAM 50",
+    "variant": "SPORT CAB",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "DODGE",
+    "model": "Caravan",
+    "variant": "BASE/SE/LE WAGON",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "DODGE",
+    "model": "Caravan",
+    "variant": "GRAND  SE/LE WAGON",
+    "year": 1990,
+    "curb_weight_tons": 1.7
+  },
+  {
+    "make": "DODGE",
+    "model": "Ramcharger",
+    "variant": "AD150",
+    "year": 1990,
+    "curb_weight_tons": 2.1
+  },
+  {
+    "make": "DODGE",
+    "model": "Ramcharger",
+    "variant": "AW150 4X4",
+    "year": 1990,
+    "curb_weight_tons": 2.3
+  },
+  {
+    "make": "DODGE",
+    "model": "Ram Van",
+    "variant": "MINI",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "DODGE",
+    "model": "Caravan",
+    "variant": "BASE/SE/LE WAGON",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "DODGE",
+    "model": "Caravan",
+    "variant": "GRAND  SE/LE WAGON",
+    "year": 1990,
+    "curb_weight_tons": 1.7
+  },
+  {
+    "make": "DODGE",
+    "model": "Grand Caravan",
+    "variant": "SE/LE WAGON",
+    "year": 1990,
+    "curb_weight_tons": 1.7
+  },
+  {
+    "make": "DODGE",
+    "model": "Dakota",
+    "variant": "CLUB CAB PICKUP",
+    "year": 1990,
+    "curb_weight_tons": 1.7
+  },
+  {
+    "make": "DODGE",
+    "model": "Dakota",
+    "variant": "LONG WB",
+    "year": 1990,
+    "curb_weight_tons": 1.6
+  },
+  {
+    "make": "DODGE",
+    "model": "Dakota",
+    "variant": "LONG WB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 1.9
+  },
+  {
+    "make": "DODGE",
+    "model": "Dakota",
+    "variant": "SHORT WB",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "DODGE",
+    "model": "Dakota",
+    "variant": "SHORT WB 4X4",
+    "year": 1990,
+    "curb_weight_tons": 1.8
+  },
+  {
+    "make": "DODGE",
+    "model": "Ram Van",
+    "variant": "MINI",
+    "year": 1990,
+    "curb_weight_tons": 1.4
+  },
+  {
+    "make": "DODGE",
+    "model": "Caravan",
+    "variant": "BASE/SE/LE WAGON",
+    "year": 1990,
+    "curb_weight_tons": 1.5
+  },
+  {
+    "make": "DODGE",
+    "model": "Caravan",
+    "variant": "GRAND  SE/LE WAGON",
+    "year": 1990,
+    "curb_weight_tons": 1.7
+  }
+]
